@@ -9,82 +9,82 @@ Back-End: Jakarta EE 10
 Database: MySQL
 
 Home
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/3b60cc63-c3a8-4907-a528-d47260997c91)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/6eb7a4a4-be20-4c6a-9e00-1817724b5bea)
 
 Single Pies
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/c430c94f-f166-4fa8-9260-c776e9cda5e0)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/74adccf0-3fdc-43b4-8fea-81eecb3ed441)
 
 All Pies
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/0a57ac7a-6689-4e54-90a4-ff1043849cc9)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/fa30125f-d972-4aac-9cb2-d4c7d6d6ec73)
 
 Contact
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/3ce3889b-30e7-4ecd-a2ca-0ac2378d5196)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/3a1a1f92-953f-4a73-bb13-3bcd80cf797c)
 
 Email to Admin Contact Form
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/907dae86-fce6-40f6-9ac3-dba5a571f71e)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/98f665b8-bfd8-49f7-a63a-12909e637056)
 
 Email to Client Contact Form
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/8b22c175-6544-4d23-8bd6-78344685fbb9)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/668d1182-9b28-4e7b-b468-7de78a4b2f0e)
 
 Registration
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/b8f8ae72-196a-4a4e-bbb5-7517ae345326)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/24ef3a70-5f16-450a-9c7d-f9e6a491fe6a)
 
 Login
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/a7e8983b-325c-4c8b-a297-4565eed0a6f2)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/db07d0d3-8b47-46b6-8488-fa2129b9c03f)
 
 Password Reset
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/2eeeeeef-3d9b-4bac-98ab-13200aacdf02)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/a2180a53-c841-401d-b32a-a44bdf79b9cd)
 
 Reset Password Email
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/d2f19338-df0b-4f55-90d8-a418b279199a)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/1a7d0aa1-1d35-4ea5-83cb-99556096f42b)
 
 Password Change
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/ddca9fb1-49d1-4ca3-8788-8e50263cb93e)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/9fc46695-4285-4bc4-9cf2-36d3f1dabd71)
 
 Order Without Login
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/d1131d32-e5cc-4112-9f71-698c90b65aa3)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/31dd1b82-afa0-42f0-8280-25d46ada6f5c)
 
 Order while logged and Order History Mechanism
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/e0925bf7-ce27-471c-8a42-5506c0ec4c96)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/2d20aa9a-03b2-4c96-9899-48f515f1097f)
 
 Admin Order Form
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/61f15100-23d4-4dd3-9700-a78bb47b67fd)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/19d68c1d-5209-45fd-9694-4ccc43d6e284)
 
 Client Order Form
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/f7846d3a-b909-4f50-b2a0-acc3c867a412)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/fe6fbba9-8aeb-48cf-aa79-867df265aa18)
 
 Admin Page
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/dbb39cf7-e56c-44b6-9663-486d0bbd19cd)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/7fd24792-7976-45d2-b95e-97e10dca2cf5)
 
 Database
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/ee02ea01-aec1-4586-9842-0401108daaf1)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/91939add-498c-4d25-85e0-1b6e7719f72e)
 
 DATA
 
 Order
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/1e0db915-a4cc-41f2-83e1-03992544665a)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/2e5ee2e4-10b3-4c7d-97a2-a8f9d841d2f4)
 
 Order Item
 
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/846295ad-ae9f-4529-83b6-d3e9f86edd60)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/c063ebbb-c3d4-4cf2-9d92-f2cb2856e2bd)
 
 Pie
 
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/eb4ea8df-e11d-45e9-b9eb-a1333683b3cf)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/ec6dc7f9-f038-4755-9cd6-862b5d99153b)
 
 Role
 
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/a94bb8a9-9dea-49bf-8c01-ac787c992f24)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/be258d39-99ca-4403-b5f0-013732fed3ce)
 
 User
 
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/a6dfc817-0200-454d-82ab-715ef512811b)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/b01b34c9-1b67-4c9d-bcdb-62f4eee688c9)
 
 User Role
 
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/9418a9f6-91c2-4364-a0c8-b25aa7ce10e8)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/bfb3b81d-efe7-498f-ba35-547db0cdc044)
 
 Area
 
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/feb57956-8939-499a-b6c5-787b13f78ee1)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/d7739895-2423-46d7-8a8e-05f4afd8f4db)
 
