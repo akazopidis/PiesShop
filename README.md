@@ -8,6 +8,8 @@ Back-End: Jakarta EE 10
 
 Database: MySQL
 
+Deployment: GCP
+
 Home
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/6eb7a4a4-be20-4c6a-9e00-1817724b5bea)
 
@@ -88,3 +90,5 @@ Area
 
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/d7739895-2423-46d7-8a8e-05f4afd8f4db)
 
+GCP - domain: https://www.kazopidispies.com/
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/fe90f054-1c49-42d3-8633-3f15e28d5442)
