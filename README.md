@@ -20,7 +20,7 @@ All Pies
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/fa30125f-d972-4aac-9cb2-d4c7d6d6ec73)
 
 Contact
-![image](https://github.com/akazopidis/PiesShop/assets/70575515/3a1a1f92-953f-4a73-bb13-3bcd80cf797c)
+![image](https://github.com/akazopidis/PiesShop/assets/70575515/630620f1-dcc6-4042-8206-b93f31b365a0)
 
 Email to Admin Contact Form
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/98f665b8-bfd8-49f7-a63a-12909e637056)
