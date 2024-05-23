@@ -2,7 +2,7 @@
 
 **Technologies used:**
 
-**Front-End: HTML, CSS, Sass, JS**
+**Front-End: HTML, CSS, Sass, JavaScript**
 
 **Back-End: Jakarta EE 10**
 
