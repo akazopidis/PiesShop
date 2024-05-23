@@ -97,5 +97,5 @@ Area
 **GCP - domain: https://www.kazopidispies.com/**
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/fe90f054-1c49-42d3-8633-3f15e28d5442)
 
-**GoDaddy**
+**Domain provider: GoDaddy**
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/7ad2aecd-602b-47d8-a7fe-12e6a42ff2b3)
