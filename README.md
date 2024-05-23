@@ -1,14 +1,14 @@
-**Fully functional and responsive website in Jakarta EE 10 showcasing the MVC Design Pattern.**
+****Fully functional and responsive website in Jakarta EE 10 showcasing the MVC Design Pattern.****
 
-Technologies used:
+**Technologies used:**
 
-Front-End: HTML, CSS, Sass, JS
+**Front-End: HTML, CSS, Sass, JS**
 
-Back-End: Jakarta EE 10
+**Back-End: Jakarta EE 10**
 
-Database: MySQL
+**Database: MySQL**
 
-Deployment: GCP
+**Deployment: GCP**
 
 Home
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/6eb7a4a4-be20-4c6a-9e00-1817724b5bea)
@@ -58,10 +58,10 @@ Client Order Form
 Admin Page
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/7fd24792-7976-45d2-b95e-97e10dca2cf5)
 
-Database
+**Database**
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/91939add-498c-4d25-85e0-1b6e7719f72e)
 
-DATA
+**DATA**
 
 Order
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/2e5ee2e4-10b3-4c7d-97a2-a8f9d841d2f4)
@@ -90,5 +90,5 @@ Area
 
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/d7739895-2423-46d7-8a8e-05f4afd8f4db)
 
-GCP - domain: https://www.kazopidispies.com/
+**GCP - domain: https://www.kazopidispies.com/**
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/fe90f054-1c49-42d3-8633-3f15e28d5442)
