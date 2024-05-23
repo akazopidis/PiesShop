@@ -1,0 +1,16 @@
+@use "sass:color";
+@import "../abstracts/colors";
+
+.success-message {
+
+  width: 90%;
+
+  margin: 50px auto;
+  border-left: $successMessageBorderColor 10px solid;
+  border-radius: 10px;
+  padding: 20px;
+
+  box-shadow: 0 0 1px 1px color.adjust($successMessageColor, $alpha: -0.8);
+
+  background-color: $successMessageColor;
+}

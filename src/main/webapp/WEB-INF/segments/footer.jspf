@@ -1,0 +1,21 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<footer>
+    <div class="first-column">
+        <h3>&copy; Pies Shop 2023</h3>
+        <p>Customer Support Email: info@piesshop.com</p>
+    </div>
+    <div class="second-column">
+        <h3>Social Media</h3>
+        <div class="social">
+            <div class="twitter"><img src="${pageContext.request.contextPath}/images/twitter.png" alt="twitter"></div>
+            <div class="facebook"><img src="${pageContext.request.contextPath}/images/facebook.png" alt="facebook"></div>
+            <div class="linkedin"><img src="${pageContext.request.contextPath}/images/linkedin.png" alt="linkedin"></div>
+            <div class="instagram"><img src="${pageContext.request.contextPath}/images/instagram.png" alt="instagram"></div>
+        </div>
+    </div>
+    <div class="third-column">
+        <h3>Social Responsibility</h3>
+        <p>At Pies Shop, we support local producers and promote sustainable practices. With every pie you enjoy, you support the local community and the environment.</p>
+    </div>
+    <div class="design"><p>Design &amp; Implementation: Kazopidis Apostolos</p></div>
+</footer>

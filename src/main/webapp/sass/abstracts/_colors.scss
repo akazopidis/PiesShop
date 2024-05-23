@@ -1,0 +1,15 @@
+@use "sass:color";
+
+$menuHeaderBackColor: #483C46;
+$menuHeaderFontColor: #BEEE62;
+
+$menuItemBackColor: #483C46;
+
+$menuItemHoverBackColor: #3C6E71;
+$menuItemActiveBackColor: #F4743B;
+
+$errorMessageColor: #ff99ac;
+$errorMessageBorderColor: darken($errorMessageColor, 70%);
+
+$successMessageColor: #a3ff99;
+$successMessageBorderColor: darken($successMessageColor, 70%);

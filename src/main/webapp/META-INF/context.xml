@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <ResourceLink name="jdbc/piesshopdb"
+                  global="jdbc/piesshopdb"
+                  auth="Container"
+                  type="javax.sql.DataSource" />
+</Context>
