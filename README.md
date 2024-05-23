@@ -6,6 +6,8 @@
 
 **Back-End: Jakarta EE 10**
 
+**Web server: Tomcat**
+
 **Database: MySQL**
 
 **Deployment: GCP**
