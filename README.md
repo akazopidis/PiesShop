@@ -6,7 +6,7 @@
 
 **Back-End: Jakarta EE 10**
 
-**Web server: Tomcat**
+**Web server: Apache Tomcat**
 
 **Database: MySQL**
 
