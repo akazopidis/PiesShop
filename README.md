@@ -1,4 +1,4 @@
-****Fully functional and responsive website in Jakarta EE 10 showcasing the MVC Design Pattern.****
+# Fully functional and responsive website in Jakarta EE 10 showcasing the MVC Design Pattern.
 
 **Technologies used:**
 
