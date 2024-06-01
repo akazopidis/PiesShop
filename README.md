@@ -6,7 +6,7 @@
 
 **Back-End: Jakarta EE 10**
 
-**Web server: Apache Tomcatt**
+**Web server: Apache Tomcat**
 
 **Building Tool: Maven**
 
