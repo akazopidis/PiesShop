@@ -8,6 +8,8 @@
 
 **Web server: Apache Tomcat**
 
+**Building Tool: Maven**
+
 **Database: MySQL**
 
 **Deployment: GCP**
