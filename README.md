@@ -101,3 +101,4 @@ Area
 
 **Domain provider: GoDaddy**
 ![image](https://github.com/akazopidis/PiesShop/assets/70575515/7ad2aecd-602b-47d8-a7fe-12e6a42ff2b3)
+
